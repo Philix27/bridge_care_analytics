@@ -4,8 +4,8 @@ export default function Layout(props) {
   return (
     <>
       <Head>
-        <title>Nottie </title>
-        <meta name="apcsituationroom" content="Created by Hexelan" />
+        <title>Bridge Care Analytics</title>
+        <meta name="Bridge Care Analytics" content="Created by Felix Eligbue" />
         <link rel="icon" href="/images/logo.png" />
       </Head>
       {/* <LandingNavBar /> */}

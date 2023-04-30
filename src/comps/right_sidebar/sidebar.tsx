@@ -6,7 +6,7 @@ export const RightSidebar = () => {
   return (
     <div className={styles.sidebar}>
       {/* <Link href="/">
-        <h3>Nottie</h3>
+        <h3>bridge Care</h3>
       </Link> */}
       <ul>
         {sidebarItems.map((item, i) => {

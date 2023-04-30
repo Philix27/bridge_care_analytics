@@ -18,7 +18,7 @@ export default function LandingNavBar() {
         <label className={styles.brand}>
           {/* <img src="/images/logo.png" className={styles.imgd} /> */}
           <Link href="/" className={styles.brand}>
-            Nottie
+            Bridge Care Analytics
           </Link>
         </label>
 
